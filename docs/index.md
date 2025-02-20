@@ -1,4 +1,4 @@
-# Ewura - Esi Manful 
+# Welcome to my website 
 
 Find me [here](https://www.huck.psu.edu/people/ewura-esi-manful)
 
