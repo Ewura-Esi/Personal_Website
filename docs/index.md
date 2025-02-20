@@ -1,3 +1,9 @@
+---
+title: "My Simple Site"
+description: " A simple website using Github Pages and Markdown
+layout: default
+---
+
 # Welcome to my website 
 
 Find me [here](https://www.huck.psu.edu/people/ewura-esi-manful)
